@@ -1,4 +1,3 @@
-const j = 3;
-const i = 4;
+const j = 44;
 
 console.log(j+i);
