@@ -1,3 +1,4 @@
-const j = 2;
+const j = 3;
+const i = 4;
 
-console.log(j);
+console.log(j+i);
